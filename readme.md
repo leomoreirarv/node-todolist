@@ -1,6 +1,7 @@
-#runing on dev environment
+# runing on dev environment
+...
 npm run watch-ts
 npm run watch-node
-
-#author
+...
+## author
 Leonardo Moreira (leonardomm@gmail.com)
